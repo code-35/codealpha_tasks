@@ -15,9 +15,9 @@ Welcome to the **Full-Stack Web Development Projects Repository**! This reposito
 Each folder in this repository corresponds to a specific task or project. The structure is as follows:
 
 ```
-/task-1
-/task-2
-/task-3
+/Task 1
+/Task 2
+/Task 3
 ... (more tasks as added)
 ```
 
