@@ -1,4 +1,4 @@
-# Full-Stack Web Development Projects by CodeAlpha
+# Full-Stack Web Development Projects Completed During CodeAlpha Internship
 
 Welcome to the **Full-Stack Web Development Projects Repository**! This repository showcases a collection of web development tasks and projects as part of the Full-Stack Web Development program offered by **CodeAlpha**. Each task is designed to enhance skills in HTML, CSS, JavaScript, and related web technologies.
 
